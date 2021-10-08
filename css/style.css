@@ -44,14 +44,14 @@ main{
     background-color: blueviolet;
 }
 
-.main-box{
+.main-title{
     background-color: pink;
     height: 100px;
 }
 
 .col{
-    height: 300px;
-    width: 32%;
+    background-color: pink;
+    height: 600px;
     margin-top: 1%;
     margin-bottom: 1%;
 }
@@ -59,10 +59,18 @@ main{
 .left{
     float: left;
     margin-right: 2%;
+    width: 22%;
 }
 
 .right{
     float: right;
+    margin-left: 2%;
+    width: 22%;
+}
+
+.center{
+    float: left;
+    width: 52%;
 }
 
 /* Footer */
